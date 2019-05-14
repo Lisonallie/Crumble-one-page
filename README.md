@@ -6,7 +6,10 @@ I was placed into a group of 4 persons to compile a website based on a made-up c
 In the group, we were each assigned to create 1 of 4 pages of this company's website. I was assigned the informational page which includes History, Mission, and Product sections. I also included 3 icon buttons on top which scroll to their respective elements upon clicking.
 
 **HERE** is the preview of the full website when put together.
-This **IMAGE** is the page I was responsible for.
+
+This image shows the page I was responsible for.
+![alt text](assets/images/websnap1.png "crumble website mock-up")
+![alt text](assets/images/websnap2.png "crumble website mock-up")
 
 ## Sections
 ##### History
