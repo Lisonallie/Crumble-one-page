@@ -1,7 +1,7 @@
 ### That's the Way the Cookie Crumbles
 
 
-## Crumble
+## :cookie: Crumble
 I was placed into a group of 4 persons to compile a website based on a made-up company. My group agreed to creating a cookie company named Crumble. The company is figuratively a cookie-giant who sells quality, made-with-love cookies and uses fresh ingredients sources from the best suppliers.
 In the group, we were each assigned to create 1 of 4 pages of this company's website. I was assigned the informational page which includes History, Mission, and Product sections. I also included 3 icon buttons on top which scroll to their respective elements upon clicking.
 
@@ -11,7 +11,7 @@ This image shows the page I was responsible for.
 ![alt text](assets/images/websnap1.png "crumble website mock-up")
 ![alt text](assets/images/websnap2.png "crumble website mock-up")
 
-## Sections
+## :eyeglasses: Sections
 ##### History
 For this section I looked up the history of the cookie on google and included select text that I thought suited the project and company.
 ##### Mission
@@ -19,7 +19,7 @@ The mission statement is paraphrased mostly from different companies with differ
 ##### Product
 The product section includes information about Crumble's suppliers and sources, a breakdown of the planned customer experience, and a list of the types of cookies they provide with a strong emphasis on the history of the cookie.
 
-## How the Website Works
+## :pencil2:  How the Website Works
 As a display, the website consists of three icon buttons aligned in the center at the top of the page, then 3 cards: the 1st is image-left and tex-right for the *Cookie History* section. The 2nd is text-left and image-right for the *Our Mission* section. The 3rd is image-left and text-right for the *Our Product* section.
 
 XL - LG | MD - SM |
