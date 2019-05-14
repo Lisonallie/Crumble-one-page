@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 h3 {
     font-family: 'Sorts Mill Goudy', serif;
     color: rgb(148, 223, 223);
