@@ -1,3 +1,11 @@
+
+.card-body {
+    display: inline;
+}
+.firstletter {
+    font-family: 'Niconne', cursive;
+    font-size: 30px;
+}
 html {
     scroll-behavior: smooth;
 }
@@ -8,6 +16,7 @@ h3 {
 .card-text {
     font-family: 'Comfortaa', cursive;
     color: rgb(95, 122, 122);
+    font-size: 14px;
 }
 #alli{
     background: #CCFFFF;
