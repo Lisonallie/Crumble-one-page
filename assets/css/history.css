@@ -1,14 +1,15 @@
-.history {
-    width: 30%vw;
+h3 {
+    font-family: 'Sorts Mill Goudy', serif;
+    color: rgb(148, 223, 223);
 }
-.mission {
-
+.card-text {
+    font-family: 'Comfortaa', cursive;
+    color: rgb(95, 122, 122);
 }
-.store {
-
-}
-.card-img-top {
-    max-width: 20%vw;
-    max-height: 30%vw;
-    
+#alli{
+    background: #CCFFFF;
+    background: -webkit-linear-gradient(bottom left, #CCFFFF, #F3FCFB);
+    background: -moz-linear-gradient(bottom left, #CCFFFF, #F3FCFB);
+    background: linear-gradient(bottom left, #CCFFFF, #F3FCFB);
+    background-size: cover;
 }
