@@ -1,3 +1,9 @@
+html, body {
+    margin: 0;
+}
+.container-fluid {
+    margin: 0;
+}
 h3 {
     font-family: 'Sorts Mill Goudy', serif;
     color: rgb(148, 223, 223);
@@ -12,4 +18,18 @@ h3 {
     background: -moz-linear-gradient(bottom left, #CCFFFF, #F3FCFB);
     background: linear-gradient(bottom left, #CCFFFF, #F3FCFB);
     background-size: cover;
+}
+#stack, #twocook, #product {
+    max-height: 50px;
+}
+.credit {
+    color: rgb(190, 190, 190);
+    font-size: 12px;
+}
+.credit a {
+    text-decoration: none;
+    color: rgb(170, 170, 170);
+}
+.credit a:hover {
+    color: rgb(190, 190, 190);
 }
