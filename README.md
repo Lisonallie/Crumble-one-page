@@ -8,8 +8,8 @@ In the group, we were each assigned to create 1 of 4 pages of this company's web
 **HERE** is the preview of the full website when put together.
 
 This image shows the page I was responsible for.
-![alt text](assets/images/websnap1.png "crumble website mock-up")
-![alt text](assets/images/websnap2.png "crumble website mock-up")
+![alt text]()
+![alt text]()
 
 ## :eyeglasses: Sections
 ##### History
