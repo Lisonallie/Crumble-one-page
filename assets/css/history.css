@@ -16,7 +16,13 @@ h3 {
 .card-text {
     font-family: 'Comfortaa', cursive;
     color: rgb(95, 122, 122);
-    font-size: 14px;
+    font-size: 13.5px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.card-title {
+    padding-left: 10px;
+    padding-right: 10px;
 }
 #alli{
     background: #CCFFFF;
