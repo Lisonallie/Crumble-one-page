@@ -27,16 +27,18 @@ As a large display, the section consists of a full width navbar, background imag
 The background is in a cover position and does not move when resizing the page. The about section is responsive. As a large display, the container is horizontal and reads so. Upon shrinking to a small screen, the section stacks upon itself and reads as a vertical card.
 
 *Navbar*
+
 XL - LG | MD - SM |
---- | --- 
+--- | ---
 Full navbar list | Yellow dots dropdown
 
 *About Section*
+
 XL - MD | SM |
 --- | --- 
 Horizontal placement | Vertical placement
 ## History
-Allison was assigned the informational page which includes History, Mission, and Product sections. I also included 3 icon buttons on top which scroll to their respective elements upon clicking.
+Allison was assigned the informational page which includes history, mission, and product sections. She also included 3 icon buttons on top which scroll to their respective elements upon clicking.
 
 These images show a preview of the History section.
 ![alt text](assets/images/websnap3.png "history1")
@@ -70,25 +72,35 @@ These images show a preview of the Gallery section.
 The card divs are set to flex stretch to have uniform height. There is an image in each card that is set to a uniform ratio so they all conform. Under the image on each card is a short description of the aforementioned product/cookie.
 
 ## :pencil2:  How the  Gallery Page Works
-As a large display, the section consists of
+As a large display, the section consists of two rows of four cards showcasing the company's products. The cards are made with bootstrap and are responsive.
+At full lg screen the cards span two rows with four cards per row. At md screen the cards display as two cards per row and there are four rows. At sm screen the cards become vertical and stack upon each other.
+
+XL - LG | MD | SM |
+--- | --- | --- 
+4 cards per row | 2 cards per row | 1 card per row
+2 rows | 4 rows | 8 rows
 ## Contact
-Laurens was assigned the Contact section which includes the opening hours, address, a contact form; and the footer.
+Laurens was assigned the Contact section which includes the opening hours, address, a contact form, and the footer.
 
 These images show a preview of the Contact section.
 ![alt text]("")
 ![alt text]("")
 ##### Opening Hours
-provides a table with the opening hours and also a picture next to it.
+The opening hours section contains a table of the opening hours with an 'open sign' photo next to it.
 ##### Address
-shows the location of the company on a 100% width google map.
+The address section displays a 100% width view of a google map shortcut indicating where our company is located.
 ##### Contact Form
-here you can fill in a message in case you want to get in contact with the company owner.
+The contact form contains a form with the option to fill in first name, last name, email, phone, and message. Submitting said form would allegedly allow the user to send a message to the company owner.
 ##### Footer
 The footer is compiled of three columns of text on a blue background. These three columns contain the name of the company, their products, and their contact information.
 There is a row below the main footer which contains icons that link to Crumble's social media handles.
 
 ## :pencil2:  How the Contact Page Works
-As a large display, the section consists of
+As a large display, the section consists of opening hours, address, contact form sections, and a footer. At a lg display these elements all span the page. This remains the case until at md display all the elements stack for legibility.
 
+XL - LG | MD - SM |
+--- | --- 
+Elements horizontal | Elements vertical
 ## Logo
 The logo was a group effort to find the font of the logo which is Niconne. We stylized the C in 'crumble' to be bigger and Allison created the cookie logo to go with it.
+**Logo image here and text img beside it**
